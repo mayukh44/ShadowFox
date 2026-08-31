@@ -4,7 +4,7 @@ int main(){
 
     cout << "Hlw World" << endl;
 
-    cout << "B1" << endl;
+    cout << "B2" << endl;
 
     return 0;
 }
